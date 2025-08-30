@@ -249,17 +249,15 @@ Step 19: Login to Kali Linux
 <img width="932" height="734" alt="Screenshot 2025-08-29 174659" src="https://github.com/user-attachments/assets/23ff4ec5-4953-4f72-8c30-78556e165a00" />
 ## EXPECTED OUTPUT
 .sh method 
-## PROGRAM 
+
 
 
 
 ## EXPECTED AND TERMINAL OUTPUT:
 
 
-## CHMOD METHOD:
-
-
-## LINUX COMMANDS:
+<img width="1920" height="1053" alt="image" src="https://github.com/user-attachments/assets/b79ba4f9-4eef-4e5c-bde2-6956e8efbd78" />
+<img width="1920" height="1053" alt="image" src="https://github.com/user-attachments/assets/fd5d21e7-89c8-4097-a3b9-a005321e02ec" />
 
 
 
